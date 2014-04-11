@@ -50,20 +50,21 @@ I_AM_GERMAN|FEMALE|Ich bin Deutsche.
 
 ID|TAGS|en-GB 
 :--|:--|:--:
-NEIGHBORHOOD_HAS_NO_COLOR||Neighbourhood has no color
+COLOR_OF_NEIGHBORHOOD||Colour of neighbourhood
 
 ID|TAGS|es|es-ES|es-AR 
 :--|:--|:--:|:--:|:--: 
 TWO_BLOCKS_AWAY_FROM_HERE|DISTANCE|A dos bloques de aquí|A dos manzanas de aquí|A dos cuadras de aquí 
 
-External links and alternatives
--------------------------------
+External links, alternatives and tools
+--------------------------------------
 
 - https://github.com/xlevus/r-gamedev-polygot/network
 - http://polyglot.wikia.com/wiki/Polyglot_Wiki
 - https://docs.google.com/spreadsheet/ccc?key=0AljNkWIESSQodGdUWWpuajdQUWZ4eTBmeTd6eEYwM2c&usp=sharing#gid=2
 - https://docs.google.com/spreadsheet/ccc?key=0Al1cNCkGdEJfdF8xX0dsaHl6ZVpzMDF2OW9JaWVWMVE&usp=drive_web#gid=0
-
+- https://github.com/l20n/l20n.js
+- 
 Locale map
 ----------
 
