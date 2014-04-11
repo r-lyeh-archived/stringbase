@@ -5,17 +5,18 @@ stringbase
 - All github users can fork-and-pullreq freely and contribute to the project. All commits are welcome and merged.
 - Any content in this repository is public domain and can be freely used in commercial and non-commercial software.
 
----
-
-Format of data is as follows:
+Sample
+------
 
 ID|TAGS|en|es
 :--|:--|:--:|:--:
 HELLO_WORLD||Hello world|Hola mundo
 
-```
+Data format
+-----------
+
 - ID and EN locale always match. ID is tokenized, though (no spaces, uppercase, ...)
-- Tags are used to disambiguate ID contexts (ie, informal/courtesy, singular/plural, genre, animal/person...)
+- Tags are used to disambiguate ID contexts (ie, informal/courtesy, singular/plural, verb/noun, male/female/thing, animal/person...). Feel free to add them as needed.
 - When no translation is found, a fallback translation can optionally used.
 - Proposed fallback is searching for replacements from locality to globality
   - Ie, assuming our app is in es-AR mode, search for ID in es-AR table,
@@ -31,9 +32,8 @@ HELLO_WORLD||Hello world|Hola mundo
   - etc...
 
 - There is a proposed fallback order tree at the bottom of this file.
-```
 
-a few samples
+A few more samples:
 
 ID|TAGS|en|es
 :--|:--|:--:|:--: 
@@ -55,6 +55,14 @@ NEIGHBORHOOD_HAS_NO_COLOR||Neighbourhood has no color
 ID|TAGS|es|es-ES|es-AR 
 :--|:--|:--:|:--:|:--: 
 TWO_BLOCKS_AWAY_FROM_HERE|DISTANCE|A dos bloques de aquí|A dos manzanas de aquí|A dos cuadras de aquí 
+
+External links and alternatives
+-------------------------------
+
+- https://github.com/xlevus/r-gamedev-polygot/network
+- http://polyglot.wikia.com/wiki/Polyglot_Wiki
+- https://docs.google.com/spreadsheet/ccc?key=0AljNkWIESSQodGdUWWpuajdQUWZ4eTBmeTd6eEYwM2c&usp=sharing#gid=2
+- https://docs.google.com/spreadsheet/ccc?key=0Al1cNCkGdEJfdF8xX0dsaHl6ZVpzMDF2OW9JaWVWMVE&usp=drive_web#gid=0
 
 Locale map
 ----------
@@ -235,11 +243,3 @@ Xhosa,xh,xh
 Yiddish,yi,yi
 Zulu,zu,zu
 ```
-
-External links and alternatives
--------------------------------
-
-- https://github.com/xlevus/r-gamedev-polygot/network
-- http://polyglot.wikia.com/wiki/Polyglot_Wiki
-- https://docs.google.com/spreadsheet/ccc?key=0AljNkWIESSQodGdUWWpuajdQUWZ4eTBmeTd6eEYwM2c&usp=sharing#gid=2
-- https://docs.google.com/spreadsheet/ccc?key=0Al1cNCkGdEJfdF8xX0dsaHl6ZVpzMDF2OW9JaWVWMVE&usp=drive_web#gid=0
