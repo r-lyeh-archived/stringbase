@@ -5,6 +5,8 @@ stringbase
 - All github users can fork-and-pullreq freely and contribute to the project. All commits are welcome and merged.
 - Any content in this repository is public domain and can be freely used in commercial and non-commercial software.
 
+---
+
 Format of data is as follows:
 
 ID|TAGS|en|es
@@ -54,6 +56,8 @@ ID|TAGS|es|es-ES|es-AR
 :--|:--|:--:|:--:|:--: 
 TWO_BLOCKS_AWAY_FROM_HERE|DISTANCE|A dos bloques de aquí|A dos manzanas de aquí|A dos cuadras de aquí 
 
+Locale map
+----------
 
 ```
 Afrikaans,af,af
@@ -231,3 +235,11 @@ Xhosa,xh,xh
 Yiddish,yi,yi
 Zulu,zu,zu
 ```
+
+External links and alternatives
+-------------------------------
+
+- https://github.com/xlevus/r-gamedev-polygot
+- http://polyglot.wikia.com/wiki/Polyglot_Wiki
+- https://docs.google.com/spreadsheet/ccc?key=0AljNkWIESSQodGdUWWpuajdQUWZ4eTBmeTd6eEYwM2c&usp=sharing#gid=2
+- https://docs.google.com/spreadsheet/ccc?key=0Al1cNCkGdEJfdF8xX0dsaHl6ZVpzMDF2OW9JaWVWMVE&usp=drive_web#gid=0
