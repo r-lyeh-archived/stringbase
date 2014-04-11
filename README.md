@@ -239,7 +239,7 @@ Zulu,zu,zu
 External links and alternatives
 -------------------------------
 
-- https://github.com/xlevus/r-gamedev-polygot
+- https://github.com/xlevus/r-gamedev-polygot/network
 - http://polyglot.wikia.com/wiki/Polyglot_Wiki
 - https://docs.google.com/spreadsheet/ccc?key=0AljNkWIESSQodGdUWWpuajdQUWZ4eTBmeTd6eEYwM2c&usp=sharing#gid=2
 - https://docs.google.com/spreadsheet/ccc?key=0Al1cNCkGdEJfdF8xX0dsaHl6ZVpzMDF2OW9JaWVWMVE&usp=drive_web#gid=0
